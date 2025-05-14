@@ -80,6 +80,6 @@
 
 ## 시연 영상
 
->  [YouTube 링크](https://example.com) ← 실제 시연 영상 URL 삽입
+>  [YouTube 링크](https://youtu.be/QlPy-ukTKvs) ← 실제 시연 영상 URL 삽입
 
 ---
